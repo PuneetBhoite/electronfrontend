@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/electronfrontend/static/css/main.1cf03476.css",
+    "main.js": "/electronfrontend/static/js/main.8ac2ba28.js",
+    "static/js/787.5da8968c.chunk.js": "/electronfrontend/static/js/787.5da8968c.chunk.js",
+    "static/media/ELECTRON.gif": "/electronfrontend/static/media/ELECTRON.6b7cd51d1163c46a2347.gif",
+    "static/media/category.png": "/electronfrontend/static/media/category.b2eb37b83795efa05b10.png",
+    "static/media/list.png": "/electronfrontend/static/media/list.76fe44e6e9a349ce419e.png",
+    "index.html": "/electronfrontend/index.html",
+    "main.1cf03476.css.map": "/electronfrontend/static/css/main.1cf03476.css.map",
+    "main.8ac2ba28.js.map": "/electronfrontend/static/js/main.8ac2ba28.js.map",
+    "787.5da8968c.chunk.js.map": "/electronfrontend/static/js/787.5da8968c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf03476.css",
+    "static/js/main.8ac2ba28.js"
+  ]
+}
