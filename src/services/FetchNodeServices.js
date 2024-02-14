@@ -1,5 +1,5 @@
 import axios from "axios";
-const ServerURL="http://localhost:5000"
+const ServerURL="http://54.144.71.155:3000"
 const postData=async(url,body)=>{
     try{
         var response=await axios.post(`${ServerURL}/${url}`,body)
